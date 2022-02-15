@@ -1,0 +1,19 @@
+.logo{
+    font-weight: bold;
+    color: #fff;
+}
+
+.suicobrasil img{
+    height: 55px;
+    width: auto;
+}
+.suicobrasil{
+    color: #fff;
+    font-weight: bolder;
+}
+
+.geral{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

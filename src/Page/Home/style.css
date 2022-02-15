@@ -1,0 +1,33 @@
+.containerhome {
+  height: calc(100vh - (128px + 56px));
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+
+.coluna {    
+  width: 50%;
+  
+  
+}
+
+.grafico {
+    display: flex;
+    flex-direction: column;
+    height: 50%;
+    text-align: center;
+    align-items: center; 
+    padding: 1em;
+    margin: 0;
+ 
+    
+}
+.titulografico{
+  display: flex;
+  color: #000;
+  text-align: center;
+ 
+  margin: 0;
+  font-weight: bolder;
+  width: 13em;
+}
