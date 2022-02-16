@@ -38,11 +38,11 @@ export default function Graf3(){
     aspectRatio:3
   };
   const data = {
-    labels:[0,1,2,3,4,5],
+    labels:[0,1,2,3,4],
     datasets: [
       {
         label: '',
-        data: [0,1,2,3,4],
+        data: [0,1,2,3,4,5],
         borderColor: 'rgb(255, 99, 132)',
         backgroundColor: 'rgba(255, 99, 132, 0.5)',
       },

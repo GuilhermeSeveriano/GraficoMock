@@ -73,8 +73,4 @@ function Graf4() {
   );
 }
 
-<<<<<<< HEAD
 export default Graf4;
-=======
-export default Graf4;
->>>>>>> b455e8ae18c48734b7fd05f4df340ea0561a4cb1

@@ -28,7 +28,7 @@ const Home = () => {
           </div>
 
           <div className="grafico">
-            <p className="titulografico">Registros</p>
+            <p className="titulografico">Registros Data/Hora</p>
             <Graf4 />
           </div>
         </div>
